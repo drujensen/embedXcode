@@ -17,7 +17,7 @@ CC = BY NC SA
 
 
 ## Installation
-----------------------------------
+
 Check and create `~/Library/Developer/Xcode`
 
 Copy the folder Templates into `~/Library/Developer/Xcode`
@@ -26,8 +26,9 @@ Read enclosed Installation Guide
 
 
 ## Contributions
-----------------------------------
+
 See attached documents for detailed references
+
 
 ----------------------------------
 End of file
