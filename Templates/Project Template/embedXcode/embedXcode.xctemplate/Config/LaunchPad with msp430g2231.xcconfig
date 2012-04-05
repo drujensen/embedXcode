@@ -1,0 +1,12 @@
+//
+//  Board config file
+//  ----------------------------------
+//
+//  LaunchPad with msp430g2231.xcconfig
+//  mpideXcode10
+//
+//  Created by Rei VILO on 27/03/12.
+//  Copyright (c) 2012 http://embedXcode.weebly.com . All rights reserved.
+//
+
+BOARD_TAG  = lpmsp430g2231

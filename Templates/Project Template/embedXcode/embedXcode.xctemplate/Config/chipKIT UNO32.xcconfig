@@ -1,0 +1,11 @@
+//
+//  Board config file
+//  ----------------------------------
+//  Developed with embedXcode
+//  Copyright (c) 2012 http://embedXcode.weebly.com. All rights reserved.
+//
+//  mpideXcode8
+//
+
+BOARD_TAG  = uno_pic32
+BOARD_PORT = /dev/tty.usbserial*
