@@ -28,6 +28,20 @@
 	</array>
 	<key>Definitions</key>
 	<dict>
+		<key>Makefiles/Energia.mk</key>
+		<dict>
+			<key>Path</key>
+			<string>Makefiles/Energia.mk</string>
+			<key>Group</key>
+			<string>Makefiles</string>
+		</dict>
+		<key>Makefiles/Wiring.mk</key>
+		<dict>
+			<key>Path</key>
+			<string>Makefiles/Wiring.mk</string>
+			<key>Group</key>
+			<string>Makefiles</string>
+		</dict>
 		<key>Energia/cores/msp430/binary.h</key>
 		<dict>
 			<key>Path</key>
@@ -2403,6 +2417,8 @@
 	</dict>
 	<key>Nodes</key>
 	<array>
+		<string>Makefiles/Wiring.mk</string>
+		<string>Makefiles/Energia.mk</string>
 		<string>Energia/cores/msp430/binary.h</string>
 		<string>Energia/cores/msp430/Energia.h</string>
 		<string>Energia/cores/msp430/HardwareSerial.cpp</string>
