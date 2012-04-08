@@ -10,9 +10,9 @@
 © Rei VILO, 2010-2012
 CC = BY NC SA
 
-[http://embedXcode.weebly.com/](http://embedXcode.weebly.com/)
+[Website](http://embedXcode.weebly.com/)
 
-[Documentation](http://sites.google.com/site/vilorei/arduino/20--arduino-makefile-for-xcode)
+[Documentation](http://embedXcode.weebly.com/tutorial.html)
     
 
 

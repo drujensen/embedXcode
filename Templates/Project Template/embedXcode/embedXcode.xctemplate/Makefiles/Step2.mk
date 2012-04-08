@@ -56,9 +56,9 @@ ifndef APP_LIB_PATH
     APP_LIB_PATH  = $(APPLICATION_PATH)/libraries
 endif
 
-ifndef APP_LIBS_LIST
+ifneq ($(APP_LIBS_LIST),0)
     s1         = $(realpath $(sort $(dir $(wildcard $(APP_LIB_PATH)/*/*.h $(APP_LIB_PATH)/*/*/*.h)))) # */
-    APP_LIBS_LIST = $(subst $(APP_LIB_PATH)/,,$($(filter-out $(EXCLUDE_LIST),$(s1)))) # */
+    APP_LIBS_LIST = $(subst $(APP_LIB_PATH)/,,$(filter-out $(EXCLUDE_LIST),$(s1)))
 endif
 
 ifndef APP_LIBS
@@ -354,10 +354,6 @@ endif
 
 # Info
 #
-
-$(info *** AVRDUDE_ISP_OPTS $(AVRDUDE_ISP_OPTS))
-
-
 $(info .    variant		$(VARIANT)) 
 ifneq ($(MAKECMDGOALS),boards)
 ifneq ($(MAKECMDGOALS),clean)

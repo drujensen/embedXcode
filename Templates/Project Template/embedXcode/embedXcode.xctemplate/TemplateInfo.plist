@@ -28,6 +28,13 @@
 	</array>
 	<key>Definitions</key>
 	<dict>
+		<key>Config/Wiring S.xcconfig</key>
+		<dict>
+			<key>Group</key>
+			<string>Config</string>
+			<key>Path</key>
+			<string>Config/Wiring S.xcconfig</string>
+		</dict>
 		<key>Makefiles/Energia.mk</key>
 		<dict>
 			<key>Path</key>
@@ -2285,6 +2292,20 @@
 				<string>arduino</string>
 			</array>
 		</dict>
+		<key>Config/Arduino mega2560.xcconfig</key>
+		<dict>
+			<key>Group</key>
+			<string>Config</string>
+			<key>Path</key>
+			<string>Config/Arduino mega2560.xcconfig</string>
+		</dict>
+		<key>Config/Arduino mini pro.xcconfig</key>
+		<dict>
+			<key>Group</key>
+			<string>Config</string>
+			<key>Path</key>
+			<string>Config/Arduino mini pro.xcconfig</string>
+		</dict>
 		<key>Config/Arduino UNO.xcconfig</key>
 		<dict>
 			<key>Group</key>
@@ -2305,13 +2326,6 @@
 			<string>Config</string>
 			<key>Path</key>
 			<string>Config/Sparkfun UNO.xcconfig</string>
-		</dict>
-		<key>Config/Arduino mini pro.xcconfig</key>
-		<dict>
-			<key>Group</key>
-			<string>Config</string>
-			<key>Path</key>
-			<string>Config/Arduino mini pro.xcconfig</string>
 		</dict>
 		<key>Makefiles/Arduino.mk</key>
 		<dict>
@@ -2417,8 +2431,11 @@
 	</dict>
 	<key>Nodes</key>
 	<array>
-		<string>Makefiles/Wiring.mk</string>
-		<string>Makefiles/Energia.mk</string>
+		<string>main.cpp</string>
+		<string>___PACKAGENAME___.pde</string>
+		<string>LocalLibrary.h</string>
+		<string>LocalLibrary.cpp</string>
+		<string>Sketchbook</string>
 		<string>Energia/cores/msp430/binary.h</string>
 		<string>Energia/cores/msp430/Energia.h</string>
 		<string>Energia/cores/msp430/HardwareSerial.cpp</string>
@@ -2447,9 +2464,6 @@
 		<string>Energia/libraries/Wire/utility/twi.c</string>
 		<string>Energia/libraries/Wire/utility/twi.h</string>
 		<string>Arduino/libraries/EEPROM/EEPROM.h</string>
-		<string>Sketchbook</string>
-		<string>main.cpp</string>
-		<string>Makefile</string>
 		<string>Arduino/libraries/EEPROM/EEPROM.cpp</string>
 		<string>Arduino/libraries/Ethernet/Client.cpp</string>
 		<string>Arduino/libraries/Ethernet/Client.h</string>
@@ -2616,29 +2630,31 @@
 		<string>Arduino/cores/arduino/Tone.cpp</string>
 		<string>Arduino/cores/arduino/WMath.cpp</string>
 		<string>Arduino/cores/arduino/WString.cpp</string>
-		<string>README.txt</string>
-		<string>Config/chipKIT UNO32.xcconfig</string>
-		<string>Config/Arduino UNO.xcconfig</string>
-		<string>Config/Sparkfun UNO.xcconfig</string>
+		<string>Config/Arduino mega2560.xcconfig</string>
 		<string>Config/Arduino mini pro.xcconfig</string>
+		<string>Config/Arduino UNO.xcconfig</string>
+		<string>Config/chipKIT UNO32.xcconfig</string>
 		<string>Config/LaunchPad with msp430g2231.xcconfig</string>
 		<string>Config/LaunchPad with msp430g2452.xcconfig</string>
 		<string>Config/LaunchPad with msp430g2553.xcconfig</string>
+		<string>Config/Sparkfun UNO.xcconfig</string>
+		<string>Config/Wiring S.xcconfig</string>
+		<string>Makefile</string>
+		<string>Makefiles/Step1.mk</string>
+		<string>Makefiles/Step2.mk</string>
 		<string>Makefiles/Arduino.mk</string>
 		<string>Makefiles/Arduino1.mk</string>
 		<string>Makefiles/Arduino23.mk</string>
-		<string>Makefiles/Avrdude.mk</string>
-		<string>Makefiles/Step1.mk</string>
-		<string>Makefiles/Step2.mk</string>
+		<string>Makefiles/Energia.mk</string>
 		<string>Makefiles/Mpide.mk</string>
+		<string>Makefiles/Wiring.mk</string>
+		<string>Makefiles/Avrdude.mk</string>
+		<string>README.txt</string>
 		<string>About/References.txt</string>
 		<string>About/README_peplin.txt</string>
 		<string>About/README_mjo_tc.txt</string>
 		<string>About/Licence GNU LGPL.txt</string>
 		<string>About/Licence CC BY-NC-SA.txt</string>
-		<string>___PACKAGENAME___.pde</string>
-		<string>LocalLibrary.h</string>
-		<string>LocalLibrary.cpp</string>
 	</array>
 	<key>Project</key>
 	<dict>
@@ -2824,7 +2840,7 @@
 	<array>
 		<dict>
 			<key>Default</key>
-			<string>chipKIT UNO32</string>
+			<string>Arduino UNO</string>
 			<key>Description</key>
 			<string>Which board to compile for and upload the sketch to</string>
 			<key>Identifier</key>
@@ -2837,6 +2853,32 @@
 			<string>popup</string>
 			<key>Units</key>
 			<dict>
+				<key>Wiring S</key>
+				<dict>
+					<key>Project</key>
+					<dict>
+						<key>BasedOn</key>
+						<dict>
+							<key>Debug</key>
+							<string>Config/Wiring S.xcconfig</string>
+							<key>Release</key>
+							<string></string>
+						</dict>
+					</dict>
+				</dict>
+				<key>Arduino mega2560</key>
+				<dict>
+					<key>Project</key>
+					<dict>
+						<key>BasedOn</key>
+						<dict>
+							<key>Debug</key>
+							<string>Config/Arduino mega2560.xcconfig</string>
+							<key>Release</key>
+							<string></string>
+						</dict>
+					</dict>
+				</dict>
 				<key>LaunchPad with msp430g2231</key>
 				<dict>
 					<key>Project</key>

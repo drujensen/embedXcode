@@ -11,14 +11,18 @@
 
 
 // Core library
-#if (__PLAFORM__ == ARDUINO)
-#include "Arduino.h"
-#elif (__PLAFORM__ == CHIPKIT)
+// Core library
+#if defined (__AVR_ATmega328P__) || defined (__AVR_ATmega2560__) // Arduino specific
+#include "Arduino.h"	
+#elif defined(__PIC32MX__) // chipKIT specific 
 #include "WProgram.h"
-#elif (__PLAFORM__ == WIRING)
+#elif defined(__AVR_ATmega644P__) // Wiring specific
 #include "Wiring.h"
+#elif defined(__MSP430G2452__) || defined(__MSP430G2553__) || defined(__MSP430G2231__) // LaunchPad specific
+#include "Energia.h"
 #endif
 
 // Library header
 #include "___FILEBASENAME___.h"
 
+// Code
