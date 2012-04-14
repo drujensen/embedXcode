@@ -429,8 +429,10 @@ endif
 # least. Perhaps it would be better to just do it in perl ?
 reset:
 		@echo "---- reset ---- "
+ifeq ($(UPLOADER),avrdude)
 		-screen -X kill;
 		sleep 1;
+endif
 #		@if [ -z "$(AVRDUDE_PORT)" ]; then \
 #			echo "No Arduino-compatible TTY device found -- exiting"; exit 2; \
 #			fi
@@ -443,6 +445,7 @@ reset:
 
 ispload:	$(TARGET_HEX)
 		@echo "---- ispload ---- "
+ifeq ($(UPLOADER),avrdude)
 		$(AVRDUDE) $(AVRDUDE_COM_OPTS) $(AVRDUDE_ISP_OPTS) -e \
 			-U lock:w:$(ISP_LOCK_FUSE_PRE):m \
 			-U hfuse:w:$(ISP_HIGH_FUSE):m \
@@ -452,6 +455,7 @@ ispload:	$(TARGET_HEX)
 			-U flash:w:$(TARGET_HEX):i
 		$(AVRDUDE) $(AVRDUDE_COM_OPTS) $(AVRDUDE_ISP_OPTS) \
 			-U lock:w:$(ISP_LOCK_FUSE_POST):m
+endif
 
 serial:		reset
 		@echo "---- serial ---- "

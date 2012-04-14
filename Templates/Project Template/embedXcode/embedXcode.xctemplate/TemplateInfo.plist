@@ -3440,332 +3440,332 @@
 				<string>TimedAction</string>
 			</array>
 		</dict>
-<key>Wiring/libraries/AVR16Bit/NMEA/nmea.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/libraries/NMEA/nmea.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR16Bit</string>
-		<string>NMEA</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR16Bit/NMEA/nmea.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/libraries/NMEA/nmea.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR16Bit</string>
-		<string>NMEA</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/EEPROM/EEPROM.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROM/EEPROM.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>EEPROM</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/EEPROM/EEPROM.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROM/EEPROM.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>EEPROM</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/EEPROMVar/EEPROMVar.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROMVar/EEPROMVar.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>EEPROMVar</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Encoder/Encoder.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Encoder/Encoder.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Encoder</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Encoder/Encoder.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Encoder/Encoder.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Encoder</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Firmata/Boards.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Boards.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Firmata</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Firmata/Firmata.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Firmata.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Firmata</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Firmata/Firmata.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Firmata.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Firmata</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/LiquidCrystal/LiquidCrystal.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/LiquidCrystal/LiquidCrystal.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>LiquidCrystal</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/LiquidCrystal/LiquidCrystal.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/LiquidCrystal/LiquidCrystal.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>LiquidCrystal</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Matrix/Matrix.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Matrix/Matrix.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Matrix</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Matrix/Matrix.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Matrix/Matrix.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Matrix</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/NewSoftSerial/NewSoftSerial.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/NewSoftSerial/NewSoftSerial.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>NewSoftSerial</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/NewSoftSerial/NewSoftSerial.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/NewSoftSerial/NewSoftSerial.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>NewSoftSerial</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Servo/Servo.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/Servo.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Servo</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Servo/Servo.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/Servo.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Servo</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Servo/ServoTimers.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/ServoTimers.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Servo</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/SoftwareSerial/SoftwareSerial.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SoftwareSerial/SoftwareSerial.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>SoftwareSerial</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/SoftwareSerial/SoftwareSerial.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SoftwareSerial/SoftwareSerial.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>SoftwareSerial</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/SPI/SPI.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SPI/SPI.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>SPI</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/SPI/SPI.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SPI/SPI.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>SPI</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Wire/utility/twi.c</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/utility/twi.c</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Wire</string>
-		<string>utility</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Wire/utility/twi.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/utility/twi.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Wire</string>
-		<string>utility</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Wire/Wire.cpp</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/Wire.cpp</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Wire</string>
-	</array>
-</dict>
-<key>Wiring/libraries/AVR8Bit/Wire/Wire.h</key>
-<dict>
-	<key>Path</key>
-	<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/Wire.h</string>
-	<key>Group</key>
-	<array>
-		<string>Wiring</string>
-		<string>libraries</string>
-		<string>AVR8Bit</string>
-		<string>Wire</string>
-	</array>
-</dict>
+		<key>Wiring/libraries/AVR16Bit/NMEA/nmea.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/libraries/NMEA/nmea.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR16Bit</string>
+				<string>NMEA</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR16Bit/NMEA/nmea.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/libraries/NMEA/nmea.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR16Bit</string>
+				<string>NMEA</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/EEPROM/EEPROM.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROM/EEPROM.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>EEPROM</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/EEPROM/EEPROM.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROM/EEPROM.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>EEPROM</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/EEPROMVar/EEPROMVar.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROMVar/EEPROMVar.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>EEPROMVar</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Encoder/Encoder.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Encoder/Encoder.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Encoder</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Encoder/Encoder.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Encoder/Encoder.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Encoder</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Firmata/Boards.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Boards.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Firmata</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Firmata/Firmata.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Firmata.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Firmata</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Firmata/Firmata.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Firmata.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Firmata</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/LiquidCrystal/LiquidCrystal.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/LiquidCrystal/LiquidCrystal.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>LiquidCrystal</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/LiquidCrystal/LiquidCrystal.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/LiquidCrystal/LiquidCrystal.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>LiquidCrystal</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Matrix/Matrix.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Matrix/Matrix.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Matrix</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Matrix/Matrix.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Matrix/Matrix.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Matrix</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/NewSoftSerial/NewSoftSerial.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/NewSoftSerial/NewSoftSerial.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>NewSoftSerial</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/NewSoftSerial/NewSoftSerial.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/NewSoftSerial/NewSoftSerial.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>NewSoftSerial</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Servo/Servo.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/Servo.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Servo</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Servo/Servo.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/Servo.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Servo</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Servo/ServoTimers.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/ServoTimers.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Servo</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/SoftwareSerial/SoftwareSerial.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SoftwareSerial/SoftwareSerial.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>SoftwareSerial</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/SoftwareSerial/SoftwareSerial.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SoftwareSerial/SoftwareSerial.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>SoftwareSerial</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/SPI/SPI.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SPI/SPI.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>SPI</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/SPI/SPI.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SPI/SPI.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>SPI</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Wire/utility/twi.c</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/utility/twi.c</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Wire</string>
+				<string>utility</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Wire/utility/twi.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/utility/twi.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Wire</string>
+				<string>utility</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Wire/Wire.cpp</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/Wire.cpp</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Wire</string>
+			</array>
+		</dict>
+		<key>Wiring/libraries/AVR8Bit/Wire/Wire.h</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/Wire.h</string>
+			<key>Group</key>
+			<array>
+				<string>Wiring</string>
+				<string>libraries</string>
+				<string>AVR8Bit</string>
+				<string>Wire</string>
+			</array>
+		</dict>
 	</dict>
 	<key>Nodes</key>
 	<array>
@@ -4060,33 +4060,33 @@
 		<string>Wiring/libraries/Supervisor/Supervisor.h</string>
 		<string>Wiring/libraries/TimedAction/TimedAction.cpp</string>
 		<string>Wiring/libraries/TimedAction/TimedAction.h</string>
-<string>Wiring/libraries/AVR16Bit/NMEA/nmea.cpp</string>
-<string>Wiring/libraries/AVR16Bit/NMEA/nmea.h</string>
-<string>Wiring/libraries/AVR8Bit/EEPROM/EEPROM.cpp</string>
-<string>Wiring/libraries/AVR8Bit/EEPROM/EEPROM.h</string>
-<string>Wiring/libraries/AVR8Bit/EEPROMVar/EEPROMVar.h</string>
-<string>Wiring/libraries/AVR8Bit/Encoder/Encoder.cpp</string>
-<string>Wiring/libraries/AVR8Bit/Encoder/Encoder.h</string>
-<string>Wiring/libraries/AVR8Bit/Firmata/Boards.h</string>
-<string>Wiring/libraries/AVR8Bit/Firmata/Firmata.cpp</string>
-<string>Wiring/libraries/AVR8Bit/Firmata/Firmata.h</string>
-<string>Wiring/libraries/AVR8Bit/LiquidCrystal/LiquidCrystal.cpp</string>
-<string>Wiring/libraries/AVR8Bit/LiquidCrystal/LiquidCrystal.h</string>
-<string>Wiring/libraries/AVR8Bit/Matrix/Matrix.cpp</string>
-<string>Wiring/libraries/AVR8Bit/Matrix/Matrix.h</string>
-<string>Wiring/libraries/AVR8Bit/NewSoftSerial/NewSoftSerial.cpp</string>
-<string>Wiring/libraries/AVR8Bit/NewSoftSerial/NewSoftSerial.h</string>
-<string>Wiring/libraries/AVR8Bit/Servo/Servo.cpp</string>
-<string>Wiring/libraries/AVR8Bit/Servo/Servo.h</string>
-<string>Wiring/libraries/AVR8Bit/Servo/ServoTimers.h</string>
-<string>Wiring/libraries/AVR8Bit/SoftwareSerial/SoftwareSerial.cpp</string>
-<string>Wiring/libraries/AVR8Bit/SoftwareSerial/SoftwareSerial.h</string>
-<string>Wiring/libraries/AVR8Bit/SPI/SPI.cpp</string>
-<string>Wiring/libraries/AVR8Bit/SPI/SPI.h</string>
-<string>Wiring/libraries/AVR8Bit/Wire/utility/twi.c</string>
-<string>Wiring/libraries/AVR8Bit/Wire/utility/twi.h</string>
-<string>Wiring/libraries/AVR8Bit/Wire/Wire.cpp</string>
-<string>Wiring/libraries/AVR8Bit/Wire/Wire.h</string>
+		<string>Wiring/libraries/AVR16Bit/NMEA/nmea.cpp</string>
+		<string>Wiring/libraries/AVR16Bit/NMEA/nmea.h</string>
+		<string>Wiring/libraries/AVR8Bit/EEPROM/EEPROM.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/EEPROM/EEPROM.h</string>
+		<string>Wiring/libraries/AVR8Bit/EEPROMVar/EEPROMVar.h</string>
+		<string>Wiring/libraries/AVR8Bit/Encoder/Encoder.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/Encoder/Encoder.h</string>
+		<string>Wiring/libraries/AVR8Bit/Firmata/Boards.h</string>
+		<string>Wiring/libraries/AVR8Bit/Firmata/Firmata.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/Firmata/Firmata.h</string>
+		<string>Wiring/libraries/AVR8Bit/LiquidCrystal/LiquidCrystal.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/LiquidCrystal/LiquidCrystal.h</string>
+		<string>Wiring/libraries/AVR8Bit/Matrix/Matrix.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/Matrix/Matrix.h</string>
+		<string>Wiring/libraries/AVR8Bit/NewSoftSerial/NewSoftSerial.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/NewSoftSerial/NewSoftSerial.h</string>
+		<string>Wiring/libraries/AVR8Bit/Servo/Servo.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/Servo/Servo.h</string>
+		<string>Wiring/libraries/AVR8Bit/Servo/ServoTimers.h</string>
+		<string>Wiring/libraries/AVR8Bit/SoftwareSerial/SoftwareSerial.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/SoftwareSerial/SoftwareSerial.h</string>
+		<string>Wiring/libraries/AVR8Bit/SPI/SPI.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/SPI/SPI.h</string>
+		<string>Wiring/libraries/AVR8Bit/Wire/utility/twi.c</string>
+		<string>Wiring/libraries/AVR8Bit/Wire/utility/twi.h</string>
+		<string>Wiring/libraries/AVR8Bit/Wire/Wire.cpp</string>
+		<string>Wiring/libraries/AVR8Bit/Wire/Wire.h</string>
 		<string>Config/Arduino mega2560.xcconfig</string>
 		<string>Config/Arduino mini pro.xcconfig</string>
 		<string>Config/Arduino UNO.xcconfig</string>
