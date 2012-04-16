@@ -4118,10 +4118,7 @@
 		<key>Configurations</key>
 		<dict>
 			<key>Debug</key>
-			<dict>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<string>__AVR_ATmega328P__</string>
-			</dict>
+			<dict/>
 			<key>Release</key>
 			<dict/>
 		</dict>
@@ -4136,10 +4133,6 @@
 		<dict>
 			<key>PATH</key>
 			<string>$(PATH):$(PROJECT_DIR)</string>
-			<key>HEADER_SEARCH_PATHS</key>
-			<string>$(ARDUINO_APP)/** $(SKETCHBOOK_DIR)/Libraries/**</string>
-			<key>ARDUINO_APP</key>
-			<string>/Applications/Arduino.app</string>
 			<key>PRODUCT_NAME</key>
 			<string>$(TARGET_NAME)</string>
 			<key>SKETCHBOOK_DIR</key>

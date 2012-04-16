@@ -19,8 +19,8 @@
 	https://github.com/rei-vilo/mpideXcode
 	
 
-embedXcode • Apr 08, 2012 release 8 • Bugs fixed
-mpideXcode • Apr 08, 2012 release 11 • Bugs fixed
+embedXcode • Apr 16, 2012 release 9 • Code-sense reference defined by selected board
+mpideXcode • Apr 16, 2012 release 12 • Code-sense reference defined by selected board
 
 
 Installation
