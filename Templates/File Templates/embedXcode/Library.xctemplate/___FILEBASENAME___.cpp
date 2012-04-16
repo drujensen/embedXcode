@@ -9,11 +9,10 @@
 //  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___
 //
 
-
-// Core library
 // Core library
 #if defined (__AVR_ATmega328P__) || defined (__AVR_ATmega2560__) // Arduino specific
-#include "Arduino.h"	
+#include "WProgram.h" // — for Arduino 0023
+                      // #include  "Arduino.h" // — for Arduino 1.0
 #elif defined(__32MX320F128H__) || defined(__32MX795F512L__) // chipKIT specific 
 #include "WProgram.h"
 #elif defined(__AVR_ATmega644P__) // Wiring specific
