@@ -6,6 +6,8 @@
 # © Rei VILO, 2010-2012
 # CC = BY NC SA
 #
+# version Apr. 20, 2012 - 21h20
+#
 
 # References and contribution
 # ----------------------------------
@@ -56,7 +58,7 @@ ifndef APP_LIB_PATH
     APP_LIB_PATH  = $(APPLICATION_PATH)/libraries
 endif
 
-ifneq ($(APP_LIBS_LIST),0)
+ifeq ($(APP_LIBS_LIST),)
     s1         = $(realpath $(sort $(dir $(wildcard $(APP_LIB_PATH)/*/*.h $(APP_LIB_PATH)/*/*/*.h)))) # */
     APP_LIBS_LIST = $(subst $(APP_LIB_PATH)/,,$(filter-out $(EXCLUDE_LIST),$(s1)))
 endif
@@ -340,7 +342,7 @@ SERIAL_PORT = $(firstword $(wildcard $(BOARD_PORT)))
 endif
 
 ifndef SERIAL_BAUDRATE
-SERIAL_BAUDRATE = 19200
+SERIAL_BAUDRATE = 9600
 endif
 
 ifndef SERIAL_COMMAND
@@ -374,7 +376,7 @@ $(info .     $(CORE_LIBS_LIST))
 ifneq ($(BUILD_CORE_LIBS_LIST),)
     $(info .     $(BUILD_CORE_LIBS_LIST))
 endif
-$(info Application Arduino/chipKIT/Wiring libraries)
+$(info Application Arduino/chipKIT/Wiring/Energia libraries)
 $(info .     $(APP_LIBS_LIST))
 $(info User libraries)
 $(info .     $(USER_LIBS_LIST))
