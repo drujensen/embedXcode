@@ -10,6 +10,7 @@
 //
 
 BOARD_TAG  = lpmsp430g2231
+BOARD_PORT = /dev/tty.uart*
 
 // References for Xcode code-sense
 //
