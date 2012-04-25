@@ -16,11 +16,10 @@
 	
 	• GitHub repositories
 	https://github.com/rei-vilo/embedXcode
-	https://github.com/rei-vilo/mpideXcode
+	https://github.com/drujensen/embedXcode  Modified for Arduino 1.0 only
 	
 
 embedXcode • Apr 16, 2012 release 9 • Code-sense reference defined by selected board
-mpideXcode • Apr 16, 2012 release 12 • Code-sense reference defined by selected board
 
 
 Installation

@@ -2,11 +2,6 @@
 # embedXcode
 *Embedded Computing Template on Xcode 4.3*
 
-# mpideXcode
-*Embedded Computing Project on Xcode 4.3*
-
-
-
 © Rei VILO, 2010-2012
 CC = BY NC SA
 
@@ -28,6 +23,10 @@ Read enclosed Installation Guide
 ## Contributions
 
 See attached documents for detailed references
+
+## Dru Jensen Modifications
+
+Made all templates specific to Arduino 1.0
 
 
 ----------------------------------
