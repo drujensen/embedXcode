@@ -190,6 +190,33 @@
 			<key>Path</key>
 			<string>About/Licence GNU LGPL.txt</string>
 		</dict>
+		<key>Libraries/libraries</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Arduino.app/Contents/Resources/Java/libraries</string>
+			<key>Group</key>
+			<array>
+				<string>Libraries</string>
+			</array>
+		</dict>
+		<key>Libraries/variants</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/variants</string>
+			<key>Group</key>
+			<array>
+				<string>Libraries</string>
+			</array>
+		</dict>
+		<key>Libraries/arduino</key>
+		<dict>
+			<key>Path</key>
+			<string>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino</string>
+			<key>Group</key>
+			<array>
+				<string>Libraries</string>
+			</array>
+		</dict>
 	</dict>
 	<key>Nodes</key>
 	<array>
@@ -197,6 +224,9 @@
 		<string>___PACKAGENAME___.ino</string>
 		<string>LocalLibrary.h</string>
 		<string>LocalLibrary.cpp</string>
+		<string>Libraries/libraries</string>
+		<string>Libraries/variants</string>
+		<string>Libraries/arduino</string>
 		<string>Config/Arduino mega2560.xcconfig</string>
 		<string>Config/Arduino mini pro.xcconfig</string>
 		<string>Config/Arduino UNO.xcconfig</string>
