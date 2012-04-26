@@ -19,7 +19,7 @@ class ___FILEBASENAME___ {
 private:
 
 public:
-    ___FILEBASENAME___::___FILEBASENAME___ ();
+    ___FILEBASENAME___ ();
 };
 
 
