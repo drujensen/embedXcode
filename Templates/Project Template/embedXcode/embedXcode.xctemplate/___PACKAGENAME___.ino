@@ -16,6 +16,7 @@
 #include "LocalLibrary.h"
 
 // Define variables and constants
+LocalLibrary library;
 
 // Add setup code 
 void setup() {                

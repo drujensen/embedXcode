@@ -11,3 +11,7 @@
 
 
 #include "LocalLibrary.h"
+
+LocalLibrary::LocalLibrary () {
+
+};

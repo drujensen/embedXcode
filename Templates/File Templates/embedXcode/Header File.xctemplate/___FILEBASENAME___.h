@@ -15,6 +15,12 @@
 #ifndef ___FILEBASENAMEASIDENTIFIER_______FILEEXTENSION___
 #define ___FILEBASENAMEASIDENTIFIER_______FILEEXTENSION___
 
+class ___FILEBASENAME___ {
+private:
+
+public:
+    ___FILEBASENAME___::___FILEBASENAME___ ();
+};
 
 
 #endif

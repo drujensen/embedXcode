@@ -15,6 +15,12 @@
 #ifndef ___PACKAGENAME____LocalLibrary_h
 #define ___PACKAGENAME____LocalLibrary_h
 
+class LocalLibrary {
+private:
+
+public:
+    LocalLibrary::LocalLibrary ();
+};
 
 
 #endif

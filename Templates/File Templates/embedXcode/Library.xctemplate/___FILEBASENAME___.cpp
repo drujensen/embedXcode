@@ -13,3 +13,6 @@
 #include "___FILEBASENAME___.h"
 
 // Code
+___FILEBASENAME___::___FILEBASENAME___ () {
+
+};
